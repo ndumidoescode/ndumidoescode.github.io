@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Challenge Project</title>
+        <link href="C:\Users\nsnco\CODING PROJECTS\Challenge Project\resources-challenge\css-challenge\index-challenge.css" type="text/css" rel="stylesheet">
+    </head>
+
+    <body>
+        <h1>CHEATSHEET</h1>
+        <br>
+        <p class="subheading">The objective of this task is to tabulate a few topics learnt in HTML and CSS</p>
+        <br>
+        
+        <!-- TABLE OF CONTENTS -->
+        
+        <h3>The topics discussed are as follows:</h3>
+        <ul class="list">
+            <li>HTML tags: text</li>
+            <li>HTML tags: media</li>
+            <li>Selectors</li>
+        </ul>
+        <br>
+        
+        <!-- HTML tags text -->
+        <br>
+        <h2 class="topic">1. HTML tags: text</h2>
+        <p class="topic-sub">This table explains HTML tags that produce text</p>
+        <br>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>HTML tags</th>
+                    <th>Function</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>!DOCTYPE html</td>
+                    <td>Specifies what document/file type this is</td>
+                </tr>
+                <tr>
+                    <td>/html</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>/head</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>/title</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>link</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>/body</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>/h1</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>/p</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>/ol</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>/ul</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>/li</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>/em</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>/strong</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>/a</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>/div</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>br</td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+        <br>
+
+        <!-- HTML tags media-->
+
+        <br>
+        <h2 class="topic">2. HTML tags: media</h2>
+        <p class="topic-sub">This table explains HTML tags that produce media</p>
+        <br>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>HTML tags</th>
+                    <th>Function</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>/figure</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>/figcaption</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>img</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>source</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>/video</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>/audio</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>embed</td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+        <br>
+        
+        <!-- Selectors -->
+
+        <br>
+        <h2 class="topic">3. Selectors</h2>
+        <p class="topic-sub">This table explains the selectors used to edit the style of content as is appears for the viewer/user, and it is done so on the CSS page for better reading and understanding on the part of the developer/editor</p>
+        <br>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Selectors</th>
+                    <th>Function</th>
+                    <th>In CSS</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>Type selector</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Universal selector</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Class selector</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Multiple classes</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>ID selectors</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Arribute selectors</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Pseudo-class selectors</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Chaining</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Descendant combinators</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Multiple selectors</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+        <br>
+        <br>
+
+        <br>
+        <footer>author: @ndumidoescode<br>date: 05/08/2023</footer>    
+
+    </body>
+</html>
